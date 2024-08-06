@@ -1,1 +1,1 @@
-# EESTech Challenge 2024 Saint-Peterburg LC: NEUROTECH 🥇
+# EESTech Challenge 2024: NEUROTECH 🥇
